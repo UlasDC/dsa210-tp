@@ -17,7 +17,7 @@ This project analyzes how **daily smartphone usage** impacts **sleep duration an
 - **Outlier Removal:** Will exclude extreme data like unusually short or long sleep/work durations.  
 
 ##  Analysis & Methodology  
-- **Data Collection Period:** March 15 – April 15 (Starting approximately **4 weeks** before last midterm)  
+- **Data Collection Period:** March 18 – April 15 (Starting approximately **4 weeks** before last midterm)  
 - **Exploratory Data Analysis (EDA):** Will identify the patterns, trends and relationships between the data using statistical methods and visualization techniques.
 - **Statistical Methods & Models:**  
   - **Correlation Analysis:** Measure the relationship between phone usage and productivity/sleep.  
